@@ -1,0 +1,6 @@
+# Dependencies
+node_modules
+.idea
+npm-debug.log
+dist
+testingfolder
